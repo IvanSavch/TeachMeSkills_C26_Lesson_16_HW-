@@ -1,4 +1,4 @@
-package constant;
+package util.constant;
 
 public interface Const {
     String passportNumberIvan = "PMB";

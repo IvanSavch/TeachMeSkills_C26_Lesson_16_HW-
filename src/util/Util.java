@@ -1,6 +1,6 @@
 package util;
 
-import constant.Const;
+import util.constant.Const;
 import model.client.Client;
 import model.order.Order;
 
